@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.hi {
+    background: tomato;
+    padding: 10px;
+    margin: 10px;
+}
