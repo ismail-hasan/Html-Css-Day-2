@@ -1,11 +1,26 @@
 * {
     margin: 0;
     padding: 0;
+    margin: 20px;
 }
 
-.hi {
-    background: tomato;
+nav ul li {
+    display: inline-block;
     padding: 10px;
-    margin: 10px;
+    margin-right: 10px;
+    text-transform: capitalize;
+    font-size: 18px;
+    background-color: red;
     color: white;
+    cursor: pointer;
+}
+.news{
+    font-size: 23px;
+}
+figure{
+    margin-top: 20px;
+}
+footer p{
+    text-align: center;
+    margin-top: 200px;
 }
